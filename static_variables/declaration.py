@@ -28,6 +28,6 @@ print(t2.x,t2.y)
 
 Test.x = 888
 t1.y = 999
-
+# printing before changing the static variable
 print(t1.x,t1.y)
 print(t2.x,t2.y)
