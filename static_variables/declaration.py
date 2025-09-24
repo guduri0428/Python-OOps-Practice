@@ -21,6 +21,8 @@ class Test:
 t1 = Test()
 t2 = Test()
 
+# printing before changing the static variable
+
 print(t1.x,t1.y)
 print(t2.x,t2.y)
 
