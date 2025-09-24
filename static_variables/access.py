@@ -1,0 +1,1 @@
+# how to acess static variables
